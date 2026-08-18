@@ -16,7 +16,7 @@
   &nbsp;
 </p>
 
-`PlanPO` a simple yet effective RL method for learning generalizable planning abilities beyond task-specific high-quality behavior patterns.
+`PlanPO` a simple yet effective RL method for learning generalizable planning abilities beyond task-specific high-quality behavior patterns. (The code will be released upon publication.)
 
  Our key observation is that many inefficiencies in agentic RL manifest as excessive interaction or generation length. In multi-turn interactions, agents may hesitate between states, repeatedly visit similar observations, or enter dead ends before eventually completing the task. A similar issue arises in token-level textual responses. Given the same question or turn-level observation, sampled responses may produce correct actions while still containing unnecessarily verbose, convoluted, or even logically flawed reasoning traces. Nevertheless, both inefficient turns and reasoning tokens can still share identical success rewards just like the superior solutions. Crucially, treating such heterogeneous successes as equally preferable weakens distinguishable signals and the underlying abilities, while allowing noisy rollouts to degrade training quality and impose substantial performance bottlenecks.
 
