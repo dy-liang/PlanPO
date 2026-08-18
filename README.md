@@ -1,7 +1,6 @@
 <h3 align="center">
-<b>PlanPO: PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs.</b>
+<b>PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs.</b>
 <br>
-<b>arXiv Preprint</b>
 </h3>
 
 
