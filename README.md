@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/dy-liang/PlanPO">
+  <a href="https://arxiv.org/pdf/2608.17289">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv" alt="arXiv Paper"></a>
   &nbsp;
   <a href="https://github.com/dy-liang/PlanPO">
